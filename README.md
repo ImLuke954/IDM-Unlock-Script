@@ -100,7 +100,7 @@ If you encounter any issues or have questions:
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ```
-Copyright (C) 2024 IDM Patcher Contributors
+Copyright (C) 2026 IDM Patcher Contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
